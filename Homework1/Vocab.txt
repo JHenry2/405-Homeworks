@@ -1,0 +1,44 @@
+P.S. This is the best (and only resource you will need) to do everything below: https://developer.mozilla.org/en-US/docs/Glossary
+- HTTP
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- HTML
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Element
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Tag
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Block (CSS)
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Doctype
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Head
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Attribute
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Boolean
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- DOM
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- CSS
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Property (CSS)
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+- Selector (CSS)
+  - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
+  - Source (from official MDN documents) as a clickable link that opens in a new tab
+
+Put a heading 2 here with the content "Reflection"
+
+Using paragraph elements to separate you paragraphs, briefly describe your experience in the class in the last three weeks. 1-2 paragraphs is fine, but feel free to write more if you want
