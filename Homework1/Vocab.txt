@@ -1,4 +1,9 @@
-P.S. This is the best (and only resource you will need) to do everything below: https://developer.mozilla.org/en-US/docs/Glossary
+P
+https://www.washington.edu/accessit/webdesign/student/index.htm
+
+
+
+.S. This is the best (and only resource you will need) to do everything below: https://developer.mozilla.org/en-US/docs/Glossary
 - HTTP
   - Definition (your own words), try to keep it short (no more than a sentence or two) if possible
   - Source (from official MDN documents) as a clickable link that opens in a new tab
