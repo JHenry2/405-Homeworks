@@ -6,14 +6,14 @@ body {
     height: auto;
     width: auto;
     max-width: 600px;
-    max-height: 600px;
+
 }
 
 .ingpic {
-    height: auto;
-    width: auto;
-    max-width: 200px;
-    max-height: 200px;
+    height: 300px;
+    width: 300px;
+    max-width: 300px;
+    max-height: 300px;
 
 }
 
