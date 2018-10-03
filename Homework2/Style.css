@@ -50,9 +50,17 @@ nav {
     color: blue;
     text-decoration: underline;
     text-transform: uppercase;
+    width: 70%;
+
+}
+nav:hover, nav:active, nav:focus{
+  color: springgreen;
+  background-color: Yellow;
+
 
 
 }
+
 
 .test {
   width: 100%;
