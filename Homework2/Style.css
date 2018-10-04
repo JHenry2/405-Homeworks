@@ -51,6 +51,7 @@ nav {
     text-decoration: underline;
     text-transform: uppercase;
     width: 70%;
+    display: inline;
 
 }
 nav:hover, nav:active, nav:focus{
