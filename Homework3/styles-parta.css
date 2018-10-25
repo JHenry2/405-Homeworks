@@ -17,14 +17,24 @@ html {
 .card
 
 /* Rulesets to be matched up with selectors */
+/*
+.card {
+width : 35em;
+height : 22em;
+margin : 5em auto;
+background-color : red;
+border : black solid 0.2em;
+border-radius : 1.5em;
+}
+*/
 
 .card {
-  width: 35em;
-  height: 22em;
-  margin: 5em auto;
-  background-color: red;
-  border: 0.2em solid black;
-  border-radius: 1.5em;
+width: 35em;
+height: 22em;
+margin: 5em auto;
+background-color: red;
+border: black solid 0.2em;
+border-radius: 1.5em;
 }
 
 .card header{
