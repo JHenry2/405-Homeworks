@@ -1,9 +1,8 @@
 html {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 /* Your CSS below here */
-
 p {
     width: 200px;
     height: 60px;
@@ -19,6 +18,4 @@ p {
     border-style: solid;
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0) 0%, rgba(255, 0, 0, 0.2) 30%);
     box-shadow: 0px 0px, inset 1px 1px rgba(255, 255, 255, 0.8), inset -1px -1px rgba(0, 0, 0, 0.8);
-
-
 }
